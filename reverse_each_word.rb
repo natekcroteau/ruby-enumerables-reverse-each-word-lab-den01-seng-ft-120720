@@ -1,4 +1,4 @@
 def reverse_each_word(param)
-  arr = %w(param)
+  param.split(" ")
   arr.each {|str|str.reverse}
 end
