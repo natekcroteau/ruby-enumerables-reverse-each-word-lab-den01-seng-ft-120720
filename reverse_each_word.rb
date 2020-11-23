@@ -1,3 +1,3 @@
-def reverse_each_word(param)
-  %w(param)
+def reverse_each_word(string)
+  %w(string)
 end
